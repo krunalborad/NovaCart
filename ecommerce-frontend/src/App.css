@@ -1,0 +1,13 @@
+/* App.css
+   Default Vite/React boilerplate styles removed — they fought with the
+   Tailwind-based Amazon-style layout (centered #root, forced max-width,
+   text-align: center, etc). Tailwind utility classes in App.jsx now handle
+   all layout, spacing and color, so this file is intentionally minimal. */
+
+#root {
+  width: 100%;
+}
+
+body {
+  margin: 0;
+}
